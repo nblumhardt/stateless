@@ -25,7 +25,7 @@ phoneCall.Fire(Trigger.CallDialled);
 Assert.AreEqual(State.Ringing, phoneCall.State);
 ```
 
-This project, as well as the example above, was inspired by [Simple State Machine](http://simplestatemachine.codeplex.com/).
+This project, as well as the example above, was inspired by [Simple State Machine](https://web.archive.org/web/20201204023726/https://archive.codeplex.com/?p=simplestatemachine).
 
 ## Features
 
